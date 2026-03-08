@@ -226,18 +226,19 @@ CREATE TABLE contacts (
 
 ---
 
-## 📸 Screenshots
-
-*Add your project screenshots here*
+## Project Screenshots
 
 ### Login Page
-![Login Page](image.png)
+
+![Login Page](screenshots/login.png)
 
 ### Dashboard
-*Coming soon*
 
-### Add Contact Modal
-*Coming soon*
+![Dashboard](screenshots/dashboard.png)
+
+### Add Contact
+
+![Add Contact](screenshots/add-contact.png)
 
 ---
 
