@@ -1,5 +1,5 @@
 # 📒 Contact Management System
-
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)
 ![Express.js](https://img.shields.io/badge/Express.js-5.x-blue.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-blue.svg)
@@ -199,7 +199,7 @@ CREATE TABLE contacts (
 | GET | `/auth/current` | Get current user status | No |
 | GET | `/auth/me` | Get authenticated user info | Yes |
 
-### Contact Routes (`/ +91 7208287364`)
+### Contact Routes (`/contacts`)
 
 | Method | Endpoint | Description | Auth Required |
 |--------|----------|-------------|---------------|
@@ -264,8 +264,8 @@ CREATE TABLE contacts (
 | **Project Name** | Contact Management System |
 | **Version** | 1.0.0 |
 | **License** | MIT |
-| **Author** | [Satyavhan polei] |
-| **Email** | your.satyavhanpolei@gmail.com  |
+| **Author** | Satyavhan polei |
+| **Email** | satyavhanpolei@gmail.com  |
 | **GitHub** | [ https://github.com/satyavhan1 ] |
 
 ---
@@ -278,7 +278,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p>Made with ❤️ using Node.js & Express</p>
-  <p>© 2024 Contact Management System</p>
+  <p>© 2026 Contact Management System</p>
 </div>
 
 Project created by Satyavhan Polei
