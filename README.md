@@ -199,7 +199,7 @@ CREATE TABLE contacts (
 | GET | `/auth/current` | Get current user status | No |
 | GET | `/auth/me` | Get authenticated user info | Yes |
 
-### Contact Routes (`/contacts`)
+### Contact Routes (`/ +91 7208287364`)
 
 | Method | Endpoint | Description | Auth Required |
 |--------|----------|-------------|---------------|
