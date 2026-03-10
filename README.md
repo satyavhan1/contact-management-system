@@ -264,9 +264,9 @@ CREATE TABLE contacts (
 | **Project Name** | Contact Management System |
 | **Version** | 1.0.0 |
 | **License** | MIT |
-| **Author** | [Your Name] |
-| **Email** | your.email@example.com |
-| **GitHub** | [Your GitHub Profile] |
+| **Author** | [Satyavhan polei] |
+| **Email** | your.satyavhanpolei@gmail.com  |
+| **GitHub** | [ https://github.com/satyavhan1 ] |
 
 ---
 
